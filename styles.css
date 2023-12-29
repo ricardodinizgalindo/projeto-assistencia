@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: font-family: 'Montserrat', sans-serif;
+    font-family: 'Newsreader', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.inicio{
+    margin: 20px;
+    padding: 20px;
+    color: brown;
+    text-align: center;
+    position:static;
+}
+ 
+.logo{
+  position: absolute;
+  top: 0;
+  left: 2%;
+}
+.testos{
+  position: relative;
+   left: 1%;
+}
+
